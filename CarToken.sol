@@ -34,6 +34,7 @@ contract SafeMath {
     }
   }
 }
+
 contract CarToken is SafeMath {
     string public name;
     string public symbol;
